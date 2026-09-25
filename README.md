@@ -33,7 +33,6 @@ Sr. No.	img src
 32	https://i.ibb.co/B5FvpLpB/Screenshot-2026-09-23-221120.png
 33	https://i.ibb.co/mr88jdyk/Screenshot-2026-09-23-230911.png
 34	https://i.ibb.co/yFQFHDdf/Screenshot-2026-09-23-232411.png
-35	https://i.ibb.co/ZzT41zM0/Screenshot-2026-09-23-232918.png
 36	https://i.ibb.co/W419yCRT/Screenshot-2026-09-24-150404.png
 37	https://i.ibb.co/Pz5Yh027/Screenshot-2026-09-24-160216.png
 38	https://i.ibb.co/GQkdcs0g/Screenshot-2026-09-24-162443.png
