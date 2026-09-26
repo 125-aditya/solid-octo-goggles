@@ -82,48 +82,65 @@ que 27
 que 28
 ![image alt](https://i.ibb.co/B5FvpLpB/Screenshot-2026-09-23-221120.png)
 
-que 29
+que 30
 ![image alt](https://i.ibb.co/mr88jdyk/Screenshot-2026-09-23-230911.png)
 
-que 30
+que 31,32
 ![image alt](https://i.ibb.co/yFQFHDdf/Screenshot-2026-09-23-232411.png)
 
-que 31
+que 33
 ![image alt](https://i.ibb.co/ZzT41zM0/Screenshot-2026-09-23-232918.png)
 
-que 32
+que 34
 ![image alt](https://i.ibb.co/W419yCRT/Screenshot-2026-09-24-150404.png)
 
-que 33
+que 36
 ![image alt](https://i.ibb.co/Pz5Yh027/Screenshot-2026-09-24-160216.png)
 
-que 34
+que 37
 ![image alt](https://i.ibb.co/GQkdcs0g/Screenshot-2026-09-24-162443.png)
 
-que 35
+que 38
 ![image alt](https://i.ibb.co/sxWx8kR/Screenshot-2026-09-24-163626.png)
 
-que 36
+que 39
 ![image alt](https://i.ibb.co/Qvntg7kX/Screenshot-2026-09-24-220036.png)
 
-que 37
+que 40
 ![image alt](https://i.ibb.co/6cFbYD8d/Screenshot-2026-09-24-223658.png)
 
-que 38
+que 41
 ![image alt](https://i.ibb.co/YFhvqHZQ/Screenshot-2026-09-25-000823.png)
 
-que 39
-![image alt](https://i.ibb.co/b9Y5bX2/Screenshot-2026-09-25-001320.png)
-
-que 40
+que 42
 ![image alt](https://i.ibb.co/PvxMgjYk/Screenshot-2026-09-25-001546.png)
 
-que 41
+que 44
 ![image alt](https://i.ibb.co/Ldmn9VJF/Screenshot-2026-09-25-002449.png)
 
-que 42
+que 45
 ![image alt](https://i.ibb.co/Q7wS8XZs/Screenshot-2026-09-25-002736.png)
 
-que 43
+que 35
 ![image alt](https://i.ibb.co/jZbWW38x/Screenshot-2026-09-25-101752.png)
+
+ que no 46
+![image alt](https://i.ibb.co/fVdfhFsf/Screenshot-2026-09-26-231415.png)
+<a href="https://ibb.co/Ng258CM5"><img src="https://i.ibb.co/fVdfhFsf/Screenshot-2026-09-26-231415.png" alt="Screenshot-2026-09-26-231415" border="0"></a>
+ 
+que no 47
+![image alt](https://i.ibb.co/xtMxy33F/Screenshot-2026-09-26-231430.png)
+<a href="https://ibb.co/bMrcx77b"><img src="https://i.ibb.co/xtMxy33F/Screenshot-2026-09-26-231430.png" alt="Screenshot-2026-09-26-231430" border="0"></a>
+ 
+que no 48
+![image alt](https://i.ibb.co/PdgRZ8n/Screenshot-2026-09-26-231446.png)
+<a href="https://ibb.co/jSDdvF2"><img src="https://i.ibb.co/PdgRZ8n/Screenshot-2026-09-26-231446.png" alt="Screenshot-2026-09-26-231446" border="0"></a>
+ 
+que no 49
+![image alt](https://i.ibb.co/PZPY4V8c/Screenshot-2026-09-26-231504.png)
+<a href="https://ibb.co/svNPQXrK"><img src="https://i.ibb.co/PZPY4V8c/Screenshot-2026-09-26-231504.png" alt="Screenshot-2026-09-26-231504" border="0"></a>
+ 
+que no 50
+![image alt](https://i.ibb.co/cXR7H44R/Screenshot-2026-09-26-231518.png)
+<a href="https://ibb.co/jZq12nnq"><img src="https://i.ibb.co/cXR7H44R/Screenshot-2026-09-26-231518.png" alt="Screenshot-2026-09-26-231518" border="0"></a>
  
